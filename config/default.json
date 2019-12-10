@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:ironhack@cluster0-okh16.mongodb.net/ContactKeeper?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
